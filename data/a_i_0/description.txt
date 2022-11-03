@@ -1,0 +1,12 @@
+#####
+Name (code):
+Birthday:
+Weight (kg):
+Height (cm):
+Date: 
+Direction_Type: One_Direction
+Speed: Stopped_Slow_Fast
+Angle (degrees): 0
+Preparation_Time(s): 60
+Wait_Time(s) : 120
+#####
